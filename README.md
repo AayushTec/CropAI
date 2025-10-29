@@ -1,5 +1,5 @@
-Smart Crop Recommendation System
-Smart Crop Recommendation System is an AI-powered tool designed to assist farmers and agricultural professionals in selecting the most suitable crops based on local environmental and soil conditions. The system leverages data-driven analysis to promote precision agriculture, minimize risk, and optimize resource use.
+**Smart Crop Recommendation System
+Smart Crop Recommendation System is an AI-powered tool designed to assist farmers and agricultural professionals in selecting the most suitable crops based on local environmental and soil conditions. The system leverages data-driven analysis to promote precision agriculture, minimize risk, and optimize resource use.**
 
 **Key Features:**
 
