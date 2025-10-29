@@ -1,7 +1,7 @@
 Smart Crop Recommendation System
 Smart Crop Recommendation System is an AI-powered tool designed to assist farmers and agricultural professionals in selecting the most suitable crops based on local environmental and soil conditions. The system leverages data-driven analysis to promote precision agriculture, minimize risk, and optimize resource use.
 
-Key Features:
+**Key Features:**
 
 Crop Prediction: Uses Random Forest Classifier to recommend crops for specific locations.
 
@@ -17,7 +17,7 @@ Location-Based Analysis: GPS and city-specific suggestions.
 
 Streamlit Web App: Simple, user-friendly deployment.
 
-Applications:
+**Applications:**
 
 Precision farming with tailored recommendations
 
@@ -29,7 +29,7 @@ Climate adaptation and crop planning
 
 Educational tool for understanding crop-environment relationships
 
-Future Improvements:
+**Future Improvements:**
 
 Economic data: market prices, cost estimates
 
